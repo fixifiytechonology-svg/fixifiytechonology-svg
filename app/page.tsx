@@ -1596,7 +1596,7 @@ export default function FixifiyTechnologyPage() {
             <span style={{ color: "#FFB700", fontWeight: 700 }}>Innovate • Develop • Empower</span>. Building high-performance Websites, Native Android Applications, E-Commerce Marketplaces, and Cloud ERP Software across India.
           </p>
           <div style={{ fontSize: "12.5px", color: "#64748b", borderTop: "1px solid rgba(255,255,255,0.1)", paddingTop: "20px", width: "100%" }}>
-            © {new Date().getFullYear()} Fixifiy Technology (A Unit of Mahadev Enterprises). All Rights Reserved.
+            © 2026 Fixifiy Technology (A Unit of Mahadev Enterprises). All Rights Reserved.
           </div>
         </div>
       </footer>
